@@ -6,7 +6,7 @@ def app():
     text = """Comparing Supervised and Unsupervised Learning: KNN vs KMeans"""
     st.subheader(text)
 
-    text = """Louie F. Cervantes, M. Eng. (Information Engineering) \n\n
+    text = """Matthew David G. Montero    BSCS 3A\n\n
     CCS 229 - Intelligent Systems
     Computer Science Department
     College of Information and Communications Technology
