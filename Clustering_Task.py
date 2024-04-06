@@ -13,13 +13,13 @@ def app():
     West Visayas State University"""
     st.text(text)
 
-    st.image('iris_flower.jpg', caption="The Iris Dataset""")
+    st.image('wine.jpg', caption="The Wine Dataset""")
 
     text = """Data App: Supervised vs Unsupervised Learning Performance
     \nThis data app allows users to compare the performance of supervised learning (KNN) and unsupervised 
     learning (K-Means) gorithms for clustering tasks. 
     \nOnce configured, users can initiate the analysis. The app will run the KNN and K-Means algorithms on 
-    the iris dataset.
+    the wine dataset.
     \n**Visualization and Comparison:**
     * The app will present the clustering results visually.
     * Scatter plots with data points colored by their assigned cluster for both KNN and K-Means.
